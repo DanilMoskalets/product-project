@@ -1,0 +1,9 @@
+{
+  "Test": "Test Text",
+  "Translate": "Translate",
+  "Language": "English",
+  "Navbar" : {
+    "Main": "Main",
+    "About": "About"
+  }
+}
